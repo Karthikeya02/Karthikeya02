@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [@Karthikeya02](https://github.com/Karthikeya02)
-- 👀 I’m interested in Cybersecurity and Data Science Development
+- 👀 I’m interested in Cybersecurity and Data Science
 - 🌱 I’m currently learning Cryptography and Data Analytics
 - 📜 My [Resume](https://karthikeya02.github.io/resume/assets/Karthikeya%20Resume.pdf)
 - 📫 Reach me: karthikeya.panangipalli.02@gmail.com
