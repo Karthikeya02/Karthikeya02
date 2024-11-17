@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karthikeya Panangipalli</h1>
 <h3 align="center">Coding with passion and precision</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthikeya02" alt="karthikeya02" /></a> </p>
-
-- 📫 How to reach me **karthikeya.panangipalli.02@gmail.com**
+- 📫 Reach me **karthikeya.panangipalli.02@gmail.com**
 
 - 📄 Know about my experiences [https://karthikeya02.github.io/resume/](https://karthikeya02.github.io/resume/)
 
